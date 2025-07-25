@@ -62,4 +62,5 @@ To use this server, you need to connect it to an MCP-compatible client, such as 
     You may need to use the full path to the `uv` executable in the `command` field if it's not in your system's PATH. You can find it by running `which uv` (macOS/Linux) or `where uv` (Windows).
 
 
-To run this mcp server dire
+## screenshot
+![screenshot](screenshot/1.png)
