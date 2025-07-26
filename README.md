@@ -2,8 +2,11 @@
 
 This project provides a Model Context Protocol (MCP) server for interacting with a Wolfram Mathematica kernel. It allows Large Language Models (LLMs) to execute Wolfram Language code in a secure, session-based environment.
 
-The `animalid` folder contains a simple tool for generating unique, animal-based identifiers. Since LLMs often fail to copy UUIDs correctly, this tool replaces them with animal-themed IDs that are more likely to be transcribed accurately.
+<a href="https://glama.ai/mcp/servers/@aac6fef/mathematica_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@aac6fef/mathematica_mcp/badge" alt="Mathematica Server MCP server" />
+</a>
 
+The `animalid` folder contains a simple tool for generating unique, animal-based identifiers. Since LLMs often fail to copy UUIDs correctly, this tool replaces them with animal-themed IDs that are more likely to be transcribed accurately.
 
 ## Tools Provided
 
